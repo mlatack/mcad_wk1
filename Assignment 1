@@ -1,0 +1,27 @@
+<!doctype html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Coffee Coupon</title>
+
+        <link type="text/css" rel="stylesheet" href="coupon-layout.css">
+        <script type="text/javascript">
+            setTimeout(function(){ alert("Print now!"); }, 5000);
+        </script>
+
+    </head>
+    <body>
+        <header>
+            <h1>Cool down, wake up!</h1>
+            <h2>2-for-1 Cold Beverages</h2>
+        </header>
+        <section class="main">
+            <section class="offer">
+                <h3>Just print and present this coupon to double your pleasure</h3>
+                <p>Through April 25, buy any featured iced or blended coffee beverage and get a 2nd one free.</p>
+                <p class="call-to-action">
+                    Spread 
+                <br>the Word!</p>
+            </section>
+        </section>
+    </body>
